@@ -1,0 +1,9 @@
+##Command Cooldowns config
+
+#Commands
+#FORMAT - name_arg1_arg2_arg3_arg4_etc:time
+#EXAMPLE  repair_all:0.5
+#command would be /repair all and the cooldown time would be 0.5 seconds
+commands:
+  - tpa:5.0
+  - tpa_:5.0
